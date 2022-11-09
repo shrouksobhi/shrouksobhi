@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrouksobhi" alt="shrouksobhi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shroukelshazli" target="blank"><img src="https://img.shields.io/twitter/follow/shroukelshazli?logo=twitter&style=for-the-badge" alt="shroukelshazli" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/shroukelshazli" target="blank"><img src="https://img.shields.io/twitter/follow/shroukelshazli?logo=twitter&style=for-the-badge" alt="shroukelshazli" /></a> </p> -->
 
 - 🌱 I’m currently learning **Android developement with Kotlin**
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shroukelshazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shroukelshazli" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/shroukelshazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shroukelshazli" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/shrouk sobhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrouk sobhy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shrouk sobhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shrouk sobhi" height="30" width="40" /></a>
-<a href="https://fb.com/shrouk sobhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrouk sobhi" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/shrouk sobhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrouk sobhi" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
